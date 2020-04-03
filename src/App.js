@@ -6,9 +6,9 @@ class App extends Component {
   render () {
     return (
       <div className="App">
-        <Contact name="Staline" avatar="https://randomuser.me/api/portraits/women/22.jpg" online />
-        <Contact name="Poutine" avatar="https://randomuser.me/api/portraits/men/5.jpg" />
-        <Contact name="Michael Jackson" avatar="https://randomuser.me/api/portraits/men/16.jpg" online />
+        <Contact name="Jimmie Stephans" avatar="https://randomuser.me/api/portraits/men/74.jpg" online />
+        <Contact name="Thomas Cooper" avatar="https://randomuser.me/api/portraits/men/67.jpg" />
+        <Contact name="Delores Sims" avatar="https://randomuser.me/api/portraits/women/24.jpg" online />
       </div>
     );
   }
